@@ -69,11 +69,11 @@ https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
 https://dethich.pw/thvl5/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
-https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist.m3u8
+https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 2
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
