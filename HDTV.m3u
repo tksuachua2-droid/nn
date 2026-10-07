@@ -75,19 +75,19 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
-https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/MTE4OTA3NTF8YW5naWFuZzAxX2hscy5zbWlsfGZwdHwxNzkxMzY5NzY5fDQyLjExMi4xNzkuMTUwfDEzMDJmMDc0YTg3ZmM5NWEyNzViMDQ2NmUxNTBjYTNm/epzsd1/angiang01_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
-https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/MTE4OTA3NTF8YW5naWFuZzAyaGRfdmhscy5zbWlsfGZwdHwxNzkxMzY4MzA1fDQyLjExMi4xNzkuMTUwfDNjODczZGZiOTQyZGY0OGYzNDMzZDc2ZWM4YmQ3MWZm/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 3
-https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/MTE4OTA3NTF8YW5naWFuZzAzX2hscy5zbWlsfGZwdHwxNzkxMzY4MzY5fDQyLjExMi4xNzkuMTUwfGY1YzIxNTA2ZjE1OGMzOWYyMjAzNTdmMmMwNWIwYmRi/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
-https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/MTE4OTA3NTF8Y2FtYXVoZF92aGxzLnNtaWx8ZnB0fDE3OTEzNjk4Nzd8NDIuMTEyLjE3OS4xNTB8NTBlZmFlYjY4MzU2NDQ5ODBlMWJkNmFmNGRmYzlmNmY/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/MTE4OTA3NTF8ZG9uZ25haTFfaGxzLnNtaWx8ZnB0fDE3OTEzNjk5NjN8NDIuMTEyLjE3OS4xNTB8NDk0OGM2ZTJkMDRlYTBmMjQ5YjY0MGYzMWY5NTVmZWE/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
-https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/MTE4OTA3NTF8ZG9uZ3RoYXAwMV92aGxzLnNtaWx8ZnB0fDE3OTEzNjg0NDl8NDIuMTEyLjE3OS4xNTB8YzliOTZkODlmYTdhMDhmZGRkMjc1NWZhOWQ1ZWIwMDQ/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
