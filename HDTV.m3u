@@ -75,11 +75,11 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
-https://vips-livecdn.fptplay.net/MTE4OTA3NTF8YW5naWFuZzAxX2hscy5zbWlsfGZwdHwxNzkxMzY5NzY5fDQyLjExMi4xNzkuMTUwfDEzMDJmMDc0YTg3ZmM5NWEyNzViMDQ2NmUxNTBjYTNm/epzsd1/angiang01_hls.smil/playlist.m3u8
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
 https://vips-livecdn.fptplay.net/MTE4OTA3NTF8YW5naWFuZzAyaGRfdmhscy5zbWlsfGZwdHwxNzkxMzY4MzA1fDQyLjExMi4xNzkuMTUwfDNjODczZGZiOTQyZGY0OGYzNDMzZDc2ZWM4YmQ3MWZm/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 3
-https://vips-livecdn.fptplay.net/MTE4OTA3NTF8YW5naWFuZzAzX2hscy5zbWlsfGZwdHwxNzkxMzY4MzY5fDQyLjExMi4xNzkuMTUwfGY1YzIxNTA2ZjE1OGMzOWYyMjAzNTdmMmMwNWIwYmRi/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
 https://vips-livecdn.fptplay.net/MTE4OTA3NTF8Y2FtYXVoZF92aGxzLnNtaWx8ZnB0fDE3OTEzNjk4Nzd8NDIuMTEyLjE3OS4xNTB8NTBlZmFlYjY4MzU2NDQ5ODBlMWJkNmFmNGRmYzlmNmY/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
